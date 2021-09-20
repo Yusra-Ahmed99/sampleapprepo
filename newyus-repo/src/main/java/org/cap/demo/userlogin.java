@@ -1,10 +1,12 @@
 package org.cap.demo;
 
-public class sales {
+public class userlogin {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-int x[]={1,2,3,4,5};
+		private String username;
+		private String password;
+
 	}
 
 }
